@@ -1,6 +1,7 @@
 # itcm_project
 Team project for the course Introduction to Computational Mathematics
 
+### [slides](https://slides.com/a136489/itcm_project#/)
 ### Classification of handwritten digits
 It is a standard problem in pattern recognition to classify handwritte digits by
 computer. If an SVD basis method is used to solve the problem, it consists of
